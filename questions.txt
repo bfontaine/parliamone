@@ -3,12 +3,14 @@
 [amici] Come si fa per avere nuovi amici?
 [amici] È possibile avere troppi amici?
 [amici] Gli amici sono importanti nella tua vita?
+[amici] I tuoi amici ti assomigliano?
 [amici] Si può essere amico/a con una persona che ha delle opinioni diverse?
 [animali domestici] Gli animali domestici somigliano al loro proprietario?
-[animali domestici] Gli animali domestici sono come dei membri della famiglia?
+[animali domestici] Gli animali domestici sono dei membri della famiglia?
 [animali domestici] Se avessi un animale domestico, quale sceglieresti?
+[animali domestici] Se fossi un animale domestico, quale saresti e quale sarebbe il tuo nome?
 [animali] Quale animale ti piace di meno?
-[animali] Se fossi un animale, che cosa saresti?
+[animali] Se fossi un animale, quale saresti?
 [arte] Che cosa pensi dell’arte astratta?
 [arte] Che ne pensi dell’arte di strada (street art)?
 [arte] Cos’è l’arte?
@@ -17,14 +19,19 @@
 [arte] L’arte è importante nella tua vita?
 [arte] Si può godere l’arte senza andare nei musei?
 [canzoni] Qual è la tua canzone preferita?
+[celebrità, figli, nomi] Che cosa ne pensi delle persone che danno dei nomi di celebrità ai loro figli?
 [celebrità, mangiare] Se potessi fare una cena con una celebrità, quale sceglieresti?
 [celebrità] Essere celebre è pericoloso?
 [celebrità] La celebrità rende felice?
 [celebrità] Ti piacerebbe essere celebre?
-[cinema] Ci vogliono molti soldi per fare un buon film?
 [cinema] Come scegliere un buon film?
 [cinema] Qual è il tuo film preferito?
 [cinema] Qual è il tuo regista preferito?
+[cinema] Ci vogliono molti soldi per fare un buon film?
+[cinema] Che cosa si mangia nei cinema nel tuo paese?
+[cinema] È meglio guardare un film a casa o al cinema?
+[corpo] Qual è la parte di te che preferisci?
+[creatività] Che cosa ti dà una spinta creativa?
 [creatività] La creatività si può imparare?
 [cultura, viaggio] Qual è la cosa che sorprende di più i stranieri che visitano il tuo paese?
 [cultura] Qual è la cosa che vorresti imparare di più?
@@ -34,7 +41,8 @@
 [denaro] Che cosa consideri uno spreco di denaro?
 [denaro] Come sarebbe la vita senza denaro?
 [denaro] Il denaro rende felice?
-[dormire] Dormire più tardi aiuta a riposarsi?
+[denaro] Si può avere troppo denaro?
+[dormire] Che cosa fai di solito prima di andare a dormire?
 [droghe] Le droghe dovrebbero essere legali?
 [famiglia, mangiare] È importante mangiare con tutta la famiglia?
 [figli, nomi] Come scegliere un buon nome per un figlio o una figlia?
@@ -47,9 +55,9 @@
 [futuro] Come saranno le macchine del futuro?
 [futuro] Come vorresti essere tra 10 anni?
 [futuro] È possibile conoscere il futuro?
+[futuro] Il mondo di oggi corrisponde all’idea del futuro che si aveva in passato?
 [futuro] L’ecologia è importante per il futuro?
 [futuro] L’umanità esisterà fra 1000 anni?
-[futuro] Se potessi tornare nel passato, quale consiglio ti daresti?
 [futuro] Sei più ottimista o pessimista?
 [geografia] C’è un paese inesistente che vorresti creare?
 [geografia] Se l’Africa fosse un paese, quale città sarebbe la sua capitale?
@@ -73,6 +81,7 @@
 [libri] I fumetti sono solo per i bambini?
 [libri] Qual è il tuo libro preferito?
 [libri] Qual è l’ultimo libro che ti ha piaciuto?
+[libri] Quale romanzo consiglieresti a un amico/a?
 [lingue] Come imparare bene una lingua?
 [lingue] C’è una lingua che non ti piace?
 [lingue] Esistono troppe lingue?
@@ -89,14 +98,16 @@
 [medicina] Quale sono le qualità di un buon dottore?
 [morale] Ci sono delle persone che nascono buone?
 [morale] Ci sono delle persone che nascono cattive?
-[morale] La morale è importante per la società?
 [morale] La morale è più importante delle leggi?
+[morale] La morale è la stessa in tutti i paesi?
 [morte, religione] C’è una vita dopo la morte?
 [morte] La morte è inevitabile?
 [morte] La morte ti fa paura?
 [morte] Ti piacerebbe essere immortale?
 [nomi] Il nostro nome ha un’influenza sulla nostra vita?
 [numeri] Qual è il tuo numero preferito e perché?
+[passato] Qual è il tuo primo ricordo?
+[passato] Se potessi tornare nel passato, quale consiglio ti daresti?
 [ping-pong] Come si impara a giocare a ping-pong?
 [ping-pong] Come spiegheresti il ping-pong a qualcuno che non lo conosce?
 [ping-pong] Sai giocare a ping-pong?
@@ -124,6 +135,7 @@
 [società] Gli adolescenti dovrebbero avere il diritto di voto?
 [società] Il femminismo è utile?
 [società] La diversità è importante?
+[politica, società] La democrazia è una buona idea?
 [soprannaturale] La telepatia esiste?
 [stagioni] È meglio l’estate o l’inverno?
 [stress] Che cosa fare per sbarazzarsi dello stress?
@@ -133,13 +145,13 @@
 [tecnologia] L’intelligenza artificiale potrà rimpiazzare gli uomini?
 [tecnologia] Qual è la tecnologia più inquietante?
 [tecnologia] Si può vivere senza smartphone?
+[televisione] Guardi la televisione?
 [televisione] Come fai per scegliere che cosa guardare alla TV?
 [televisione] Come fai per scoprire delle nuove serie TV?
-[televisione] Guardi la televisione?
-[televisione] Preferisci le trasmissioni di divertimento o di cultura?
 [televisione] Quale cosa ti piace di più alla televisione?
-[vacanze, viaggio] Bisogna partire lontano per vedere posti belli?
-[vacanze, viaggio] Per spostarsi durante le vacanze, è meglio prendere l’aereo o il treno?
+[tempo libero] Come passi il tuo tempo libero?
+[vacanze, viaggio] Bisogna partire lontano per vedere bei posti?
+[vacanze, viaggio] Per spostarsi durante le vacanze, è meglio prendere l’aereo, il treno o la macchina?
 [vacanze] Che cosa portare sempre nella sua valigia?
 [vacanze] Preferisci andare al mare o in montagna?
 [vacanze] Quale sarebbe una perfetta vacanza romantica?
@@ -148,6 +160,8 @@
 [vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere una donna?
 [vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in campagna?
 [vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in una grande città?
+[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di viaggiare in aereo?
+[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di viaggiare in macchina?
 [vestiti, viaggio] Quali sono i vestiti più comodi per i viaggi?
 [vestiti] Come ti vesti quando sei a casa?
 [vestiti] Come vestirsi per un colloquio di lavoro?
@@ -162,3 +176,4 @@
 [weekend] Come sarebbe un weekend perfetto?
 [weekend] I negozi dovrebbero essere aperti la domenica?
 [weekend] Lavori il weekend?
+[giornalismo] I giornalisti sono necessari?
