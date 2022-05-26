@@ -1,0 +1,18 @@
+{% extends "base.html.j2" %}
+{% block head %}
+    <meta property="og:title" content="Parliamone!">
+    <meta name="description" content="Centinaia di domande per fare conversazione in italiano.">
+{% endblock %}
+{% block content %}
+    <div class="home">
+        <p>Benvenuti sul sito di <i>Parliamone!</i></p>
+
+        <p>Qui sotto troverete più di {{ questions_count_more_than }} domande in {{ categories_count }} categorie diverse:</p>
+
+        <ul class="categories">
+            {% for category in categories %}
+                <li><a href="{{ url_for("category_page", slug=category.slug) }}">{{ category.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}

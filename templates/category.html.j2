@@ -1,0 +1,23 @@
+{% extends "base.html.j2" %}
+{% block head %}
+    <meta property="og:title" content="Parliamone! Domande nella categoria {{ category_lower_title }}.">
+    <meta name="description"
+          content="Centinaia di domande per fare conversazione parlando di {{ category_lower_title }} in italiano.">
+{% endblock %}
+{% block content %}
+    <div class="category">
+        {% macro student(letter, questions) %}
+            <div class="category-student">
+                <h2>Domande per lo studente {{ letter }}</h2>
+                <ol class="questions">
+                    {% for q in questions %}
+                        <li>{{ q }}</li>
+                    {% endfor %}
+                </ol>
+            </div>
+        {% endmacro %}
+
+        {{ student("A", questions_a) }}
+        {{ student("B", questions_b) }}
+    </div>
+{% endblock %}

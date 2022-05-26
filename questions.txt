@@ -1,0 +1,164 @@
+[amici, famiglia] La famiglia è più importante degli amici?
+[amici, relazioni] Come incontrare le persone giuste?
+[amici] Come si fa per avere nuovi amici?
+[amici] È possibile avere troppi amici?
+[amici] Gli amici sono importanti nella tua vita?
+[amici] Si può essere amico/a con una persona che ha delle opinioni diverse?
+[animali domestici] Gli animali domestici somigliano al loro proprietario?
+[animali domestici] Gli animali domestici sono come dei membri della famiglia?
+[animali domestici] Se avessi un animale domestico, quale sceglieresti?
+[animali] Quale animale ti piace di meno?
+[animali] Se fossi un animale, che cosa saresti?
+[arte] Che cosa pensi dell’arte astratta?
+[arte] Che ne pensi dell’arte di strada (street art)?
+[arte] Cos’è l’arte?
+[arte] C’è un’arte più importante delle altre?
+[arte] È meglio l'arte di oggi o quella del passato?
+[arte] L’arte è importante nella tua vita?
+[arte] Si può godere l’arte senza andare nei musei?
+[canzoni] Qual è la tua canzone preferita?
+[celebrità, mangiare] Se potessi fare una cena con una celebrità, quale sceglieresti?
+[celebrità] Essere celebre è pericoloso?
+[celebrità] La celebrità rende felice?
+[celebrità] Ti piacerebbe essere celebre?
+[cinema] Ci vogliono molti soldi per fare un buon film?
+[cinema] Come scegliere un buon film?
+[cinema] Qual è il tuo film preferito?
+[cinema] Qual è il tuo regista preferito?
+[creatività] La creatività si può imparare?
+[cultura, viaggio] Qual è la cosa che sorprende di più i stranieri che visitano il tuo paese?
+[cultura] Qual è la cosa che vorresti imparare di più?
+[cultura] Qual è la cosa più sorprendente che hai imparato di recente?
+[denaro, povertà] Un mondo senza povertà potrebbe esistere?
+[denaro, società] È giusto pagare delle tasse?
+[denaro] Che cosa consideri uno spreco di denaro?
+[denaro] Come sarebbe la vita senza denaro?
+[denaro] Il denaro rende felice?
+[dormire] Dormire più tardi aiuta a riposarsi?
+[droghe] Le droghe dovrebbero essere legali?
+[famiglia, mangiare] È importante mangiare con tutta la famiglia?
+[figli, nomi] Come scegliere un buon nome per un figlio o una figlia?
+[figli] Che ne pensi delle donne che non vogliono figli?
+[figli] Che ne pensi delle famiglie con molti figli?
+[figli] C’è un’età ideale per avere figli?
+[figli] I figli hanno sempre lo stesso carattere dei genitori?
+[figli] Vuoi avere dei figli?
+[futuro] Come pensi che sarà il mondo fra 20 anni?
+[futuro] Come saranno le macchine del futuro?
+[futuro] Come vorresti essere tra 10 anni?
+[futuro] È possibile conoscere il futuro?
+[futuro] L’ecologia è importante per il futuro?
+[futuro] L’umanità esisterà fra 1000 anni?
+[futuro] Se potessi tornare nel passato, quale consiglio ti daresti?
+[futuro] Sei più ottimista o pessimista?
+[geografia] C’è un paese inesistente che vorresti creare?
+[geografia] Se l’Africa fosse un paese, quale città sarebbe la sua capitale?
+[geografia] Se l’Asia fosse un paese, quale città sarebbe la sua capitale?
+[geografia] Se l’Europa fosse un paese, quale città sarebbe la sua capitale?
+[guerra] Un mondo senza guerra è possibile?
+[lavoro, pensione] Bisogna aspettare la pensione per godersi la vita?
+[lavoro, social network] «Influencer» è un vero lavoro?
+[lavoro, ufficio] Che cosa si dovrebbe fare il primo giorno di lavoro quando si arriva in ufficio?
+[lavoro] Bisogna fare degli studi per avere un buon lavoro?
+[lavoro] Che ne pensi dello smart working?
+[lavoro] Ci sono dei lavori inutili?
+[lavoro] Come si fa per scegliere che lavoro fare nella vita?
+[lavoro] Quale domanda bisogna porre in un colloquio di lavoro?
+[leadership] Come riconoscere un buon leader?
+[leadership] Come riconoscere un cattivo leader?
+[leadership] Quale sono le qualità essenziali di un leader?
+[leadership] Si può imparare a essere un leader?
+[libri] Come scegliere un buon libro?
+[libri] È possibile vivere scrivendo solo libri?
+[libri] I fumetti sono solo per i bambini?
+[libri] Qual è il tuo libro preferito?
+[libri] Qual è l’ultimo libro che ti ha piaciuto?
+[lingue] Come imparare bene una lingua?
+[lingue] C’è una lingua che non ti piace?
+[lingue] Esistono troppe lingue?
+[lingue] Qual è la lingua più importante nel mondo?
+[lingue] Qual è la parola più bella della tua lingua?
+[lingue] Quale consiglio daresti a qualcuno che vuole imparare la tua lingua?
+[lingue] Quale lingua è più utile imparare?
+[mangiare, ristoranti] Che cosa pensi dei ristoranti “all you can eat”?
+[mangiare, televisione] Guardi la televisione mentre mangi?
+[mangiare, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere vegetariano?
+[mangiare, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di mangiare carne?
+[mangiare] Come sarebbe una colazione ideale per te?
+[mangiare] Qual è il tuo pasto preferito?
+[medicina] Quale sono le qualità di un buon dottore?
+[morale] Ci sono delle persone che nascono buone?
+[morale] Ci sono delle persone che nascono cattive?
+[morale] La morale è importante per la società?
+[morale] La morale è più importante delle leggi?
+[morte, religione] C’è una vita dopo la morte?
+[morte] La morte è inevitabile?
+[morte] La morte ti fa paura?
+[morte] Ti piacerebbe essere immortale?
+[nomi] Il nostro nome ha un’influenza sulla nostra vita?
+[numeri] Qual è il tuo numero preferito e perché?
+[ping-pong] Come si impara a giocare a ping-pong?
+[ping-pong] Come spiegheresti il ping-pong a qualcuno che non lo conosce?
+[ping-pong] Sai giocare a ping-pong?
+[relazioni, società] La poligamia è morale?
+[relazioni] Che cosa non si deve fare durante un primo appuntamento?
+[relazioni] Chi paga al primo appuntamento?
+[relazioni] Due persone che hanno religioni diverse possono stare insieme?
+[relazioni] I ruoli dovrebbero cambiare quando una coppia si sposa o si trasferisce a vivere insieme?
+[relazioni] In una coppia eterosessuale, quale dovrebbe essere il ruolo dell'uomo?
+[relazioni] In una coppia eterosessuale, quale dovrebbe essere il ruolo della donna?
+[relazioni] L’amore può durare tutta la vita?
+[relazioni] Qual è la cosa più importante nell'amore?
+[relazioni] Una coppia può vivere insieme prima del matrimonio?
+[religione] La morale esiste fuori dalla religione?
+[religione] La religione è necessaria per vivere?
+[ridere] Ridere è una cosa importante nella vita?
+[ridere] Si può ridere di tutto con tutti?
+[scuola, studi] Qual è la materia più importante a scuola?
+[scuola] Come si riconosce un buon insegnante?
+[scuola] C’è un insegnante che ti ha particolarmente colpito?
+[scuola] Nelle scuole devono essere separati i ragazzi e le ragazze?
+[scuola] Se fossi un insegnante, quale materia insegneresti?
+[scuola] Ti piace insegnare?
+[social network] Perché i social network sono così tanti?
+[società] Gli adolescenti dovrebbero avere il diritto di voto?
+[società] Il femminismo è utile?
+[società] La diversità è importante?
+[soprannaturale] La telepatia esiste?
+[stagioni] È meglio l’estate o l’inverno?
+[stress] Che cosa fare per sbarazzarsi dello stress?
+[stress] Ci sono delle persone più stressate che altre?
+[stress] La meditazione aiuta a evitare lo stress?
+[stress] Lo stress può essere utile?
+[tecnologia] L’intelligenza artificiale potrà rimpiazzare gli uomini?
+[tecnologia] Qual è la tecnologia più inquietante?
+[tecnologia] Si può vivere senza smartphone?
+[televisione] Come fai per scegliere che cosa guardare alla TV?
+[televisione] Come fai per scoprire delle nuove serie TV?
+[televisione] Guardi la televisione?
+[televisione] Preferisci le trasmissioni di divertimento o di cultura?
+[televisione] Quale cosa ti piace di più alla televisione?
+[vacanze, viaggio] Bisogna partire lontano per vedere posti belli?
+[vacanze, viaggio] Per spostarsi durante le vacanze, è meglio prendere l’aereo o il treno?
+[vacanze] Che cosa portare sempre nella sua valigia?
+[vacanze] Preferisci andare al mare o in montagna?
+[vacanze] Quale sarebbe una perfetta vacanza romantica?
+[valori] Quali valori sono importanti nella vita?
+[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere un uomo?
+[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere una donna?
+[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in campagna?
+[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in una grande città?
+[vestiti, viaggio] Quali sono i vestiti più comodi per i viaggi?
+[vestiti] Come ti vesti quando sei a casa?
+[vestiti] Come vestirsi per un colloquio di lavoro?
+[vestiti] È importante seguire la moda?
+[vestiti] Se fossi invitato/a dal Presidente della Repubblica, quale vestito metteresti?
+[viaggio] Come viaggiare senza spendere troppo?
+[viaggio] C’è in posto in cui hai viaggiato che ti ha deluso?
+[viaggio] Dove vorresti viaggiare?
+[viaggio] È meglio uno zaino o una valigia per viaggiare?
+[viaggio] È una buona idea viaggiare da solo/a?
+[viaggio] Si può viaggiare in un paese senza saperne la lingua?
+[weekend] Come sarebbe un weekend perfetto?
+[weekend] I negozi dovrebbero essere aperti la domenica?
+[weekend] Lavori il weekend?

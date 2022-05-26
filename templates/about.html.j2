@@ -1,0 +1,25 @@
+{% extends"base.html.j2" %}
+{% block content %}
+    <article class="post">
+        <header class="post-header">
+            <h1 class="post-title">{{ sub_title }}</h1>
+        </header>
+        <div class="post-content {{ page_class }}">
+            <p>
+                Il contenuto di questo sito è nel
+                <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.it">Pubblico Dominio</a>.
+            </p>
+            <p>Il codice sorgente del sito è aperto su <a href="https://github.com/bfontaine/parliamone">GitHub</a>. Il
+                sito non usa nessun tipo di <span lang="en">cookie</span> e le
+                statistiche di consultazione sono
+                <a href="https://plausible.io/parliamone-conversazione.it">pubbliche</a>.
+            </p>
+
+            <p>Il sito è nato come equivalente italiano di
+                <a href="https://esldiscussions.com/" hreflang="en" rel="nofollow noreferrer">ESLDiscussions</a>, dove
+                sono elencate delle domande in inglese. Purtroppo il suo autore non accetta che il suo contenuto sia
+                tradotto in italiano, e per questa ragione il contenuto del presente sito è del tutto originale.
+            </p>
+        </div>
+    </article>
+{% endblock %}

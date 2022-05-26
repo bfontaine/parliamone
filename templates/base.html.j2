@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{{ url_for("static", filename = "img/logo.png") }}">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{{ url_for("static", filename = "img/logo.png") }}">
+    {% assets "css_all" %}
+        <link rel="stylesheet" href="{{ ASSET_URL }}">
+    {% endassets %}
+    <script defer data-domain="parliamone-conversazione.it" src="https://plausible.io/js/plausible.js"></script>
+    <title>{% block title %}Parliamone!{% if sub_title %} · {{ sub_title }}{% endif %}{% endblock %}</title>
+    {% block head %}{% endblock %}
+</head>
+<body>
+<header class="site-header top">
+    <div class="wrapper">
+      <span class="site-title">
+    <a href="{{ url_for("home") }}">Parliamone!</a>
+          {% if category_title %}
+              &nbsp;&rsaquo;&nbsp; {{ category_title }}</span>
+          {% endif %}
+        </span>
+    </div>
+</header>
+<main class="page-content" aria-label="Content">
+    <div class="wrapper">
+        {% block content %}{% endblock %}
+    </div>
+</main>
+<footer class="site-footer h-card">
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col">
+                <ul>
+                    <li><a href="{{ url_for("about") }}">A proposito</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
