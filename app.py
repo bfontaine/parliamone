@@ -58,7 +58,7 @@ assets.register('css_all', all_css)
 def home():
     questions_count = sum(len(qs) for qs in QUESTIONS.values())
     # increase as we have more questions
-    questions_count_more_than = (questions_count // 20) * 20
+    questions_count_more_than = (questions_count // 50) * 50
 
     return render_template("home.html.j2",
                            categories=[
