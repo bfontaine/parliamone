@@ -1,5 +1,7 @@
+from urllib.parse import urlparse
+
 import htmlmin
-from flask import Flask, render_template, abort, redirect, url_for
+from flask import Flask, render_template, abort, redirect, request
 from flask_assets import Environment
 from webassets import Bundle
 import os
@@ -10,10 +12,24 @@ app = Flask(__name__)
 app.jinja_options["autoescape"] = lambda _: True
 app.jinja_env.trim_blocks = True
 app.jinja_env.lstrip_blocks = True
-app.config['CANONICAL_DOMAIN'] = os.environ.get("CANONICAL_DOMAIN")
-app.config['HTTPS'] = os.environ.get('HTTPS')
 
 QUESTIONS = utils.load_questions()
+
+CANONICAL_DOMAIN = os.environ.get("CANONICAL_DOMAIN")
+HTTPS = os.environ.get('HTTPS')
+
+if HTTPS or CANONICAL_DOMAIN:
+    @app.before_request
+    def redirect_to_canonical_domain():
+        url_parts = urlparse(request.url)
+        if url_parts.netloc != CANONICAL_DOMAIN:
+            url_parts = url_parts._replace(netloc=CANONICAL_DOMAIN)
+        if HTTPS and url_parts.scheme != "https":
+            url_parts = url_parts._replace(scheme="https")
+
+        new_url = url_parts.geturl()
+        if new_url != request.url:
+            return redirect(new_url, code=301)
 
 
 @app.after_request
