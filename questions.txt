@@ -31,27 +31,35 @@
 [cinema] Qual è il tuo film preferito?
 [cinema] Qual è il tuo regista preferito?
 [cinema] È meglio guardare un film a casa o al cinema?
+[colori] Quali sono i due colori che preferisci?
+[colori] Se potessi inventare il nome di un nuovo colore, quale sarebbe?
+[colori] Secondo te, di quale cosa il blu è il simbolo?
+[colori] Secondo te, di quale cosa il rosso è il simbolo?
+[colori] Si può inventare un colore?
 [corpo] Qual è la parte di te che preferisci?
 [creatività] Che cosa ti dà una spinta creativa?
 [creatività] La creatività si può imparare?
 [cultura, viaggio] Qual è la cosa che sorprende di più i stranieri che visitano il tuo paese?
-[cultura] Qual è la cosa che vorresti imparare di più?
-[cultura] Qual è la cosa più sorprendente che hai imparato di recente?
 [denaro, povertà] Un mondo senza povertà potrebbe esistere?
 [denaro, società] È giusto pagare delle tasse?
 [denaro] Che cosa consideri uno spreco di denaro?
 [denaro] Come sarebbe la vita senza denaro?
 [denaro] Il denaro rende felice?
 [denaro] Si può avere troppo denaro?
+[denaro] Si può diventare ricco/ricca in modo veloce?
+[denaro] Una persona piena di denaro può tornare povera?
+[dormire, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di svegliarsi presto?
 [dormire] Che cosa fai di solito prima di andare a dormire?
 [droghe] Le droghe dovrebbero essere legali?
 [famiglia, mangiare] È importante mangiare con tutta la famiglia?
+[figli, gusti] I figli hanno gli stessi gusti dei loro genitori?
 [figli, nomi] Come scegliere un buon nome per un figlio o una figlia?
 [figli] Che ne pensi delle donne che non vogliono figli?
 [figli] Che ne pensi delle famiglie con molti figli?
 [figli] C’è un’età ideale per avere figli?
 [figli] I figli hanno sempre lo stesso carattere dei genitori?
 [figli] Vuoi avere dei figli?
+[fiori] C’è un fiore che ti piace di più degli altri?
 [futuro] Come pensi che sarà il mondo fra 20 anni?
 [futuro] Come saranno le macchine del futuro?
 [futuro] Come vorresti essere tra 10 anni?
@@ -66,6 +74,15 @@
 [geografia] Se l’Europa fosse un paese, quale città sarebbe la sua capitale?
 [giornalismo] I giornalisti sono necessari?
 [guerra] Un mondo senza guerra è possibile?
+[gusti, mangiare] C’è un cibo che detestava quando eri bambino/a e che invece oggi ti piace?
+[gusti] Preferisci il salato o il dolce?
+[gusti] Secondo te, perché i gusti cambiano a secondo della persona?
+[imparare, lingue] Come imparare bene una lingua?
+[imparare] Come imparare nuove cose ogni giorno?
+[imparare] Come non dimenticare le cose che si imparano?
+[imparare] Qual è la cosa che vorresti imparare di più?
+[imparare] Qual è la cosa più sorprendente che hai imparato di recente?
+[imparare] Si può imparare a imparare meglio?
 [lavoro, pensione] Bisogna aspettare la pensione per godersi la vita?
 [lavoro, social network] «Influencer» è un vero lavoro?
 [lavoro, ufficio] Che cosa si dovrebbe fare il primo giorno di lavoro quando si arriva in ufficio?
@@ -78,13 +95,14 @@
 [leadership] Come riconoscere un cattivo leader?
 [leadership] Quale sono le qualità essenziali di un leader?
 [leadership] Si può imparare a essere un leader?
+[librerie, libri] Nel tuo paese, il prezzo dei libri è lo stesso in ognuna libreria?
+[librerie] Ti piacerebbe essere un libraio o una libraia?
 [libri] Come scegliere un buon libro?
 [libri] I fumetti sono solo per i bambini?
 [libri] Qual è il tuo libro preferito?
 [libri] Qual è l’ultimo libro che ti ha piaciuto?
 [libri] Quale romanzo consiglieresti a un amico/a?
 [libri] È possibile vivere scrivendo solo libri?
-[lingue] Come imparare bene una lingua?
 [lingue] C’è una lingua che non ti piace?
 [lingue] Esistono troppe lingue?
 [lingue] Qual è la lingua più importante nel mondo?
@@ -107,15 +125,18 @@
 [morte] La morte è inevitabile?
 [morte] Ti piacerebbe essere immortale?
 [nomi] Il nostro nome ha un’influenza sulla nostra vita?
-[numeri] Qual è il tuo numero preferito e perché?
+[notte] La notte ti fa paura?
 [numeri] C’è un numero che non ti piace per niente?
+[numeri] Qual è il tuo numero preferito e perché?
 [passato, stress] Pensi che la vita di oggi è più stressante di quella di venti anni fa?
 [passato] Qual è il tuo primo ricordo?
 [passato] Se potessi tornare nel passato, quale consiglio ti daresti?
+[pianti] Hai delle pianti a casa tua?
 [ping-pong] Come si impara a giocare a ping-pong?
 [ping-pong] Come spiegheresti il ping-pong a qualcuno che non lo conosce?
 [ping-pong] Sai giocare a ping-pong?
 [politica, società] La democrazia è una buona idea?
+[povertà] Come si può lottare contro la povertà?
 [relazioni, società] La poligamia è morale?
 [relazioni] Che cosa non si deve fare durante un primo appuntamento?
 [relazioni] Chi paga al primo appuntamento?
@@ -182,3 +203,4 @@
 [weekend] Come sarebbe un weekend perfetto?
 [weekend] I negozi dovrebbero essere aperti la domenica?
 [weekend] Lavori il weekend?
+[felicità] I bambini sono più felice degli adulti?
