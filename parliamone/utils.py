@@ -1,6 +1,7 @@
 import re
 from collections import defaultdict
-from typing import List, Dict, Tuple, TextIO
+from http.client import HTTPResponse
+from typing import List, Dict, Tuple, Iterable
 from urllib.error import HTTPError
 from urllib.request import urlopen
 
@@ -27,14 +28,14 @@ def get_category_slug(category: str):
     return category.replace(" ", "_")
 
 
-def _load_questions_from_reader(f: TextIO):
+def _load_questions_from_lines(lines: Iterable[str]):
     questions: Dict[str, List[str]] = defaultdict(list)
 
-    with open(QUESTIONS_FILE) as f:
-        for line in f:
-            categories, question = parse_question_line(line)
-            for category in categories:
-                questions[category].append(question)
+    for line in lines:
+        categories, question = parse_question_line(line)
+        print(categories, question)
+        for category in categories:
+            questions[category].append(question)
 
     return dict(questions)
 
@@ -59,13 +60,18 @@ def load_raw_questions():
         print(f"loading from {QUESTIONS_URL}")
         try:
             with urlopen(QUESTIONS_URL) as response:
-                return _load_questions_from_reader(response)
+                response: HTTPResponse
+                print("coucou")
+                charset = response.headers.get_content_charset() or "utf-8"
+                content = response.read().decode(charset)
+                lines = content.splitlines()
+                return _load_questions_from_lines(lines)
         except HTTPError as e:
             print(e)
 
     with open(QUESTIONS_FILE) as f:
         print("loading from file")
-        return _load_questions_from_reader(f)
+        return _load_questions_from_lines(f)
 
 
 def load_questions(min_by_category=4):

@@ -61,10 +61,7 @@ assets.register('css_all', all_css)
 @app.route("/")
 def home():
     count = count_questions(QUESTIONS)
-    questions_count_more_than = max(
-        (count // n) * n
-        for n in (20, 50)
-    )
+    questions_count_more_than = (count // 50) * 50
 
     return render_template("home.html.j2",
                            categories=[
