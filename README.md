@@ -15,3 +15,10 @@ Most of the code comes from [Schedario Napoletano][sn] (same author).
 ## Tests
 
     poetry run pytest
+
+## Config
+
+* `QUESTIONS_URL`: if defined, questions are loaded from this URL
+* `CANONICAL_DOMAIN`
+* `HTTPS`: set it to use HTTPS
+* `TOKEN`: token for the admin route to reload the questions
