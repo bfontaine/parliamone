@@ -1,6 +1,10 @@
 import re
 from collections import defaultdict
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, TextIO
+from urllib.error import HTTPError
+from urllib.request import urlopen
+
+from parliamone.config import QUESTIONS_FILE, QUESTIONS_URL
 
 question_line_re = re.compile(r"^\[([^]]*)]\s*(.+)$")
 
@@ -23,17 +27,19 @@ def get_category_slug(category: str):
     return category.replace(" ", "_")
 
 
-def load_questions(min_by_category=4):
+def _load_questions_from_reader(f: TextIO):
     questions: Dict[str, List[str]] = defaultdict(list)
 
-    with open("questions.txt") as f:
+    with open(QUESTIONS_FILE) as f:
         for line in f:
             categories, question = parse_question_line(line)
             for category in categories:
                 questions[category].append(question)
 
-    total = 0
+    return dict(questions)
 
+
+def _trim_questions(questions: Dict[str, List[str]], min_by_category=4):
     for category in list(questions):
         category_questions = questions[category]
         category_count = len(category_questions)
@@ -42,7 +48,29 @@ def load_questions(min_by_category=4):
                   f" they are fewer than {min_by_category}.")
             del questions[category]
             continue
-        total += category_count
 
-    print(f"Loaded {total} questions in {len(questions)} categories.")
+
+def count_questions(questions):
+    return sum(len(qs) for qs in questions.values())
+
+
+def load_raw_questions():
+    if QUESTIONS_URL:
+        print(f"loading from {QUESTIONS_URL}")
+        try:
+            with urlopen(QUESTIONS_URL) as response:
+                return _load_questions_from_reader(response)
+        except HTTPError as e:
+            print(e)
+
+    with open(QUESTIONS_FILE) as f:
+        print("loading from file")
+        return _load_questions_from_reader(f)
+
+
+def load_questions(min_by_category=4):
+    questions = load_raw_questions()
+    _trim_questions(questions, min_by_category=min_by_category)
+
+    print(f"Loaded {count_questions(questions)} questions in {len(questions)} categories.")
     return dict(questions)

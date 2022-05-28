@@ -31,6 +31,8 @@
 [cinema] Qual è il tuo film preferito?
 [cinema] Qual è il tuo regista preferito?
 [cinema] È meglio guardare un film a casa o al cinema?
+[città] Qual è la città in cui sei andato/a il più spesso fuori dalla tua regione?
+[città] Quali sono le cose che rendono una città piacevole, secondo te?
 [colori] Quali sono i due colori che preferisci?
 [colori] Se potessi inventare il nome di un nuovo colore, quale sarebbe?
 [colori] Secondo te, di quale cosa il blu è il simbolo?
@@ -52,6 +54,7 @@
 [dormire] Che cosa fai di solito prima di andare a dormire?
 [droghe] Le droghe dovrebbero essere legali?
 [famiglia, mangiare] È importante mangiare con tutta la famiglia?
+[felicità] I bambini sono più felice degli adulti?
 [figli, gusti] I figli hanno gli stessi gusti dei loro genitori?
 [figli, nomi] Come scegliere un buon nome per un figlio o una figlia?
 [figli] Che ne pensi delle donne che non vogliono figli?
@@ -151,7 +154,9 @@
 [religione] La religione è necessaria per vivere?
 [ridere] Ridere è una cosa importante nella vita?
 [ridere] Si può ridere di tutto con tutti?
+[scelte, temperatura] Se dovessi scegliere, preferesti avere troppo freddo o troppo caldo?
 [scuola, studi] Qual è la materia più importante a scuola?
+[scuola, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi della scuola privata?
 [scuola] Come si riconosce un buon insegnante?
 [scuola] C’è un insegnante che ti ha particolarmente colpito?
 [scuola] Nelle scuole devono essere separati i ragazzi e le ragazze?
@@ -203,4 +208,3 @@
 [weekend] Come sarebbe un weekend perfetto?
 [weekend] I negozi dovrebbero essere aperti la domenica?
 [weekend] Lavori il weekend?
-[felicità] I bambini sono più felice degli adulti?

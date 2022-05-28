@@ -1,4 +1,4 @@
-import utils
+from parliamone import utils
 
 
 def test_parse_question_line():
