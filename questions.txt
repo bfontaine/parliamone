@@ -1,14 +1,19 @@
+[aereo, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di viaggiare in aereo?
+[aereo] Hai paura di viaggiare in aereo?
+[aereo] Preferisci sederti vicino al finestrino o al corridoio?
+[aereo] Qual è stato il viaggio più lungo che hai mai fatto in aereo?
 [amici, famiglia] La famiglia è più importante degli amici?
+[amici, memoria] Come ricordarsi degli anniversari degli amici?
 [amici, relazioni] Come incontrare le persone giuste?
 [amici] Come si fa per avere nuovi amici?
 [amici] Gli amici sono importanti nella tua vita?
 [amici] I tuoi amici ti assomigliano?
 [amici] Si può essere amico/a con una persona che ha delle opinioni diverse?
 [amici] È possibile avere troppi amici?
+[animali domestici, famiglia] Gli animali domestici sono dei membri della famiglia?
 [animali domestici] Gli animali domestici somigliano al loro proprietario?
-[animali domestici] Gli animali domestici sono dei membri della famiglia?
-[animali domestici] Se avessi un animale domestico, quale sceglieresti?
 [animali domestici] Se fossi un animale domestico, quale saresti e quale sarebbe il tuo nome?
+[animali] Che cosa ne pensi degli zoo?
 [animali] Quale animale ti piace di meno?
 [animali] Se fossi un animale, quale saresti?
 [animali] Se potessi essere un uccello per un giorno, che cosa faresti?
@@ -19,9 +24,18 @@
 [arte] L’arte è importante nella tua vita?
 [arte] Si può godere l’arte senza andare nei musei?
 [arte] È meglio l'arte di oggi o quella del passato?
+[canzoni, memoria] C’è una canzone che conosci a memoria?
+[canzoni] Le canzoni sono legate all’epoca in cui sono uscite?
 [canzoni] Qual è la tua canzone preferita?
+[canzoni] È importante di capire il testo di una canzone per apprezzarla?
+[casa, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di abitare al primo piano?
+[casa, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di abitare all’ultimo piano?
+[casa] Come sarebbe la tua casa ideale?
+[casa] Preferesti un piccolo appartamento in centro città o una grande casa in campagna?
+[casinò] Ci sono dei casinò nel tuo paese?
+[casinò] Un casinò può fallire?
 [celebrità, figli, nomi] Che cosa ne pensi delle persone che danno dei nomi di celebrità ai loro figli?
-[celebrità, mangiare] Se potessi fare una cena con una celebrità, quale sceglieresti?
+[celebrità, mangiare, scelte] Se potessi fare una cena con una celebrità, quale sceglieresti?
 [celebrità] Essere celebre è pericoloso?
 [celebrità] La celebrità rende felice?
 [celebrità] Ti piacerebbe essere celebre?
@@ -31,6 +45,9 @@
 [cinema] Qual è il tuo film preferito?
 [cinema] Qual è il tuo regista preferito?
 [cinema] È meglio guardare un film a casa o al cinema?
+[città, macchina] Si può non avere una macchina quando si vive in città?
+[città, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in una grande città?
+[città] Qual è la città che vorresti visitare di più e perché?
 [città] Qual è la città in cui sei andato/a il più spesso fuori dalla tua regione?
 [città] Quali sono le cose che rendono una città piacevole, secondo te?
 [colori] Quali sono i due colori che preferisci?
@@ -42,6 +59,7 @@
 [creatività] Che cosa ti dà una spinta creativa?
 [creatività] La creatività si può imparare?
 [cultura, viaggio] Qual è la cosa che sorprende di più i stranieri che visitano il tuo paese?
+[cultura] Quali sono le principali differenze tra la cultura del tuo paese e i suoi vicini?
 [denaro, povertà] Un mondo senza povertà potrebbe esistere?
 [denaro, società] È giusto pagare delle tasse?
 [denaro] Che cosa consideri uno spreco di denaro?
@@ -53,8 +71,12 @@
 [dormire, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di svegliarsi presto?
 [dormire] Che cosa fai di solito prima di andare a dormire?
 [droghe] Le droghe dovrebbero essere legali?
-[famiglia, mangiare] È importante mangiare con tutta la famiglia?
+[elettricità, passato] Se potessi tornare nel passato, come spiegheresti l’elettricità a uno del Medioevo?
+[famiglia, mangiare] È importante di mangiare con tutta la famiglia?
+[famiglia] Si è più felici con una grande famiglia?
+[felicità] Da che cosa dipende la felicità?
 [felicità] I bambini sono più felice degli adulti?
+[felicità] È possibile rendere felice una persona triste?
 [figli, gusti] I figli hanno gli stessi gusti dei loro genitori?
 [figli, nomi] Come scegliere un buon nome per un figlio o una figlia?
 [figli] Che ne pensi delle donne che non vogliono figli?
@@ -63,8 +85,8 @@
 [figli] I figli hanno sempre lo stesso carattere dei genitori?
 [figli] Vuoi avere dei figli?
 [fiori] C’è un fiore che ti piace di più degli altri?
+[futuro, macchina] Come saranno le macchine del futuro?
 [futuro] Come pensi che sarà il mondo fra 20 anni?
-[futuro] Come saranno le macchine del futuro?
 [futuro] Come vorresti essere tra 10 anni?
 [futuro] Il mondo di oggi corrisponde all’idea del futuro che si aveva in passato?
 [futuro] L’ecologia è importante per il futuro?
@@ -75,17 +97,26 @@
 [geografia] Se l’Africa fosse un paese, quale città sarebbe la sua capitale?
 [geografia] Se l’Asia fosse un paese, quale città sarebbe la sua capitale?
 [geografia] Se l’Europa fosse un paese, quale città sarebbe la sua capitale?
+[giornalismo, internet] Internet è una buona cosa per il giornalismo?
+[giornalismo] Che cosa ci vuole per diventare giornalista?
 [giornalismo] I giornalisti sono necessari?
+[giornalismo] Perché ci sono diversi tipi di giornali?
+[guerra] Che cosa si può fare per evitare che delle guerre scoppiassero?
 [guerra] Un mondo senza guerra è possibile?
 [gusti, mangiare] C’è un cibo che detestava quando eri bambino/a e che invece oggi ti piace?
 [gusti] Preferisci il salato o il dolce?
 [gusti] Secondo te, perché i gusti cambiano a secondo della persona?
+[imparare, lingue, internet] Internet ha cambiato il modo di imparare una lingua?
 [imparare, lingue] Come imparare bene una lingua?
 [imparare] Come imparare nuove cose ogni giorno?
 [imparare] Come non dimenticare le cose che si imparano?
 [imparare] Qual è la cosa che vorresti imparare di più?
 [imparare] Qual è la cosa più sorprendente che hai imparato di recente?
 [imparare] Si può imparare a imparare meglio?
+[internet, librerie, libri] È meglio comprare un libro in libreria o in Internet?
+[internet] Quali sono le differenze tra Facebook, Instagram e Tik Tok?
+[internet] Si può vivere senza Internet?
+[italiano] Seconde te, per gli stranieri l’italiano è una lingua facile da imparare?
 [lavoro, pensione] Bisogna aspettare la pensione per godersi la vita?
 [lavoro, social network] «Influencer» è un vero lavoro?
 [lavoro, ufficio] Che cosa si dovrebbe fare il primo giorno di lavoro quando si arriva in ufficio?
@@ -106,19 +137,24 @@
 [libri] Qual è l’ultimo libro che ti ha piaciuto?
 [libri] Quale romanzo consiglieresti a un amico/a?
 [libri] È possibile vivere scrivendo solo libri?
+[lingue, memoria] Come si possono memorizzare le parole delle lingue che studiamo?
 [lingue] C’è una lingua che non ti piace?
 [lingue] Esistono troppe lingue?
 [lingue] Qual è la lingua più importante nel mondo?
 [lingue] Qual è la parola più bella della tua lingua?
 [lingue] Quale consiglio daresti a qualcuno che vuole imparare la tua lingua?
 [lingue] Quale lingua è più utile imparare?
+[macchina, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di viaggiare in macchina?
 [mangiare, ristoranti] Che cosa pensi dei ristoranti “all you can eat”?
 [mangiare, televisione] Guardi la televisione mentre mangi?
 [mangiare, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere vegetariano?
 [mangiare, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di mangiare carne?
 [mangiare] Come sarebbe una colazione ideale per te?
 [mangiare] Qual è il tuo pasto preferito?
+[marketing, società] Il marketing è sempre utile per la società?
+[marketing] Come si sceglie un buon nome per un marchio?
 [medicina] Quale sono le qualità di un buon dottore?
+[memoria] Come si può migliorare la propria memoria?
 [morale] Ci sono delle persone che nascono buone?
 [morale] Ci sono delle persone che nascono cattive?
 [morale] La morale è la stessa in tutti i paesi?
@@ -127,19 +163,23 @@
 [morte] La morte ti fa paura?
 [morte] La morte è inevitabile?
 [morte] Ti piacerebbe essere immortale?
+[musica, stress] Quale tipo di musica aiuta a rilassarsi?
+[musica] Che ne pensi della musica rap?
+[nomi] Come si sceglie un buon nome?
 [nomi] Il nostro nome ha un’influenza sulla nostra vita?
 [notte] La notte ti fa paura?
 [numeri] C’è un numero che non ti piace per niente?
 [numeri] Qual è il tuo numero preferito e perché?
+[parolacce] Le parolacce sono necessarie?
 [passato, stress] Pensi che la vita di oggi è più stressante di quella di venti anni fa?
 [passato] Qual è il tuo primo ricordo?
 [passato] Se potessi tornare nel passato, quale consiglio ti daresti?
-[pianti] Hai delle pianti a casa tua?
+[passato] Se potessi viaggiare nel tempo, a qual epoca andresti?
 [ping-pong] Come si impara a giocare a ping-pong?
 [ping-pong] Come spiegheresti il ping-pong a qualcuno che non lo conosce?
-[ping-pong] Sai giocare a ping-pong?
 [politica, società] La democrazia è una buona idea?
 [povertà] Come si può lottare contro la povertà?
+[povertà] Quali sono le principali cause della povertà nel tuo paese?
 [relazioni, società] La poligamia è morale?
 [relazioni] Che cosa non si deve fare durante un primo appuntamento?
 [relazioni] Chi paga al primo appuntamento?
@@ -152,9 +192,13 @@
 [relazioni] Una coppia può vivere insieme prima del matrimonio?
 [religione] La morale esiste fuori dalla religione?
 [religione] La religione è necessaria per vivere?
+[ridere] Le cose che ci fanno ridere sono le stesse durante tutta la nostra vita?
 [ridere] Ridere è una cosa importante nella vita?
 [ridere] Si può ridere di tutto con tutti?
+[scelte, animali domestici] Se avessi un animale domestico, quale sceglieresti?
+[scelte, televisione] Come fai per scegliere che cosa guardare alla TV?
 [scelte, temperatura] Se dovessi scegliere, preferesti avere troppo freddo o troppo caldo?
+[scrivanie] È meglio una scrivania in legno o in plastica?
 [scuola, studi] Qual è la materia più importante a scuola?
 [scuola, vantaggi e svantaggi] Quali sono i vantaggi e svantaggi della scuola privata?
 [scuola] Come si riconosce un buon insegnante?
@@ -163,42 +207,45 @@
 [scuola] Se fossi un insegnante, quale materia insegneresti?
 [scuola] Ti piace insegnare?
 [social network] Perché i social network sono così tanti?
+[società, religione] Lo stato dovrebbe avere una religione ufficiale?
 [società] Gli adolescenti dovrebbero avere il diritto di voto?
 [società] Il femminismo è utile?
 [società] La diversità è importante?
 [soprannaturale] La telepatia esiste?
+[sport, videogiochi] I videogiochi sono uno sport?
+[sport] Qual è il tuo sport preferito e perché?
+[sport] Se potessi inventare uno sport, quale sarebbe?
+[sport] È necessario fare sport per una buona salute?
+[stagioni, viaggio] Qual è la miglior stagione per visitare il tuo paese?
 [stagioni] È meglio l’estate o l’inverno?
 [stress] Che cosa fare per sbarazzarsi dello stress?
 [stress] Ci sono delle persone più stressate che altre?
 [stress] La meditazione aiuta a evitare lo stress?
 [stress] Lo stress può essere utile?
-[stress] Quale tipo di musica aiuta a rilassarsi?
+[tecnologia] Come spiegheresti cos’è un computer a un bambino di 5 anni?
 [tecnologia] L’intelligenza artificiale potrà rimpiazzare gli uomini?
 [tecnologia] Qual è la tecnologia più inquietante?
 [tecnologia] Si può vivere senza smartphone?
-[televisione] Come fai per scegliere che cosa guardare alla TV?
 [televisione] Come fai per scoprire delle nuove serie TV?
 [televisione] Guardi la televisione?
 [televisione] Quale cosa ti piace di più alla televisione?
 [tempo libero] Come passi il tuo tempo libero?
+[internet, tempo libero] Prima di Internet, si aveva più tempo libero?
 [terremoto] Come reagire in caso di terremoto?
 [vacanze, viaggio] Bisogna partire lontano per vedere bei posti?
 [vacanze, viaggio] Per spostarsi durante le vacanze, è meglio prendere l’aereo, il treno o la macchina?
 [vacanze] Che cosa portare sempre nella sua valigia?
 [vacanze] Preferisci andare al mare o in montagna?
 [vacanze] Quale sarebbe una perfetta vacanza romantica?
-[valori] Quali valori sono importanti nella vita?
+[valori] Quali sono i valori importanti nella vita?
 [vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere un uomo?
 [vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di essere una donna?
-[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di viaggiare in aereo?
-[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di viaggiare in macchina?
 [vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in campagna?
-[vantaggi e svantaggi] Quali sono i vantaggi e svantaggi di vivere in una grande città?
 [vestiti, viaggio] Quali sono i vestiti più comodi per i viaggi?
 [vestiti] Come ti vesti quando sei a casa?
 [vestiti] Come vestirsi per un colloquio di lavoro?
 [vestiti] Se fossi invitato/a dal Presidente della Repubblica, quale vestito metteresti?
-[vestiti] È importante seguire la moda?
+[vestiti] È importante di seguire la moda?
 [viaggio] Come viaggiare senza spendere troppo?
 [viaggio] C’è in posto in cui hai viaggiato che ti ha deluso?
 [viaggio] Dove vorresti viaggiare?
@@ -207,4 +254,3 @@
 [viaggio] È una buona idea viaggiare da solo/a?
 [weekend] Come sarebbe un weekend perfetto?
 [weekend] I negozi dovrebbero essere aperti la domenica?
-[weekend] Lavori il weekend?
